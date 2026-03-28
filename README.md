@@ -31,6 +31,7 @@ Con el advenimiento de *claude-code* y otras herramientas "agentic", esta catego
 - [**Antigravity Awesome Skills**](https://github.com/sickn33/antigravity-awesome-skills?tab=readme-ov-file#antigravity-workflows): Colección específica de flujos de trabajo (workflows) y "skills" súper potentes diseñadas para el ecosistema "Antigravity", maximizando el potencial en terminales automatizadas. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Skill: Cost Optimizer**](https://github.com/fullstackcrew-alpha/skill-cost-optimizer): Una *skill* (habilidad) inteligente empaquetada para auditar despliegues en la nube (AWS, GCP, etc.) y sugerir de inmediato recortes o refactorizaciones de arquitectura para optimizar facturas. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Skill: Last 30 Days**](https://github.com/mvanhorn/last30days-skill?tab=readme-ov-file): Habilidad desarrollada para ayudar a los agentes IA a entender inmediatamente el contexto de un proyecto leyendo resúmenes y commits producidos en los últimos 30 días del repositorio. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Skill: Agent Reach**](https://github.com/Panniantong/Agent-Reach?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev): Da a tu agente de IA visión completa de internet para leer y buscar en Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu y más desde OpenClaw, con una sola skill y sin APIs de pago. *(Añadido por [@aitorwilzig](https://github.com/aitorwilzig))
 
 ---
 
