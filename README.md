@@ -30,8 +30,8 @@ Con el advenimiento de *claude-code* y otras herramientas "agentic", esta catego
 - [**Awesome Claude Skills (ComposioHQ)**](https://github.com/ComposioHQ/awesome-claude-skills): Una lista gigantesca y oficial impulsada por ComposioHQ que recopila las mejores herramientas, integraciones (calendar, github, sql) y skills pre-armadas para dotar a Claude de capacidades externas (llamadas a API, acciones en software). *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Antigravity Awesome Skills**](https://github.com/sickn33/antigravity-awesome-skills?tab=readme-ov-file#antigravity-workflows): Colección específica de flujos de trabajo (workflows) y "skills" súper potentes diseñadas para el ecosistema "Antigravity", maximizando el potencial en terminales automatizadas. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Skill: Cost Optimizer**](https://github.com/fullstackcrew-alpha/skill-cost-optimizer): Un plugin (skill) vital para OpenClaw/Claude Code que rastrea y clasifica tus prompts en tiempo real, asignando la tarea a modelos ultrabaratos (Deepseek/Gemini Flash) cuando la tarea es sencilla, logrando **reducir un 84% tus facturas de API** sin perder inteligencia en código complejo. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
-- [**Skill: Last 30 Days**](https://github.com/mvanhorn/last30days-skill?tab=readme-ov-file): Interesante *skill* para Claude Code u OpenClaw focalizada en rastrear cambios, resúmenes y toda la actividad en un proyecto o entorno local en el intervalo de los últimos 30 días, ideal para sincronizar bases de contexto rápidamente. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
-- [**Skill: Agent Reach**](https://github.com/Panniantong/Agent-Reach?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev): Da a tu agente de IA visión completa de internet para leer y buscar en Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu y más desde OpenClaw, con una sola skill y sin APIs de pago. *(Añadido por [@aitorwilzig](https://github.com/aitorwilzig))
+- [**Skill: Last 30 Days**](https://github.com/mvanhorn/last30days-skill?tab=readme-ov-file): Potente herramienta de *research* para agentes. Ejecuta `/last30days <tema>` y rastreará masivamente ese tópico en Reddit, X, TikTok, YouTube, Hacker News y Bluesky, evaluando resultados y tendencias humanas reales de los últimos 30 días. Brutal para dotar a tu agente de contexto sobre ecosistemas externos o feedback social antes de trabajar. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Skill: Agent Reach**](https://github.com/Panniantong/Agent-Reach?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev): Da a tu agente de IA visión completa de internet para leer y buscar en Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu y más desde OpenClaw, con una sola skill y sin APIs de pago. *(Añadido por [@aitorwilzig](https://github.com/aitorwilzig))*
 
 ---
 
@@ -59,7 +59,7 @@ Recursos de back-office, monitorización mundial, bases de datos libres y utilid
 
 ## 🛠️ Cómo colaborar
 
-¿Quieres añadir un proyecto a esta lista pública? 
+¿Quieres añadir un proyecto a esta lista pública?
 
 1. Busca en este `README.md` que la herramienta no exista.
 2. Abre un **Pull Request** proponiendo la herramienta, bajo su categoría correcta y respetando este formato detallado.
@@ -72,5 +72,6 @@ Recursos de back-office, monitorización mundial, bases de datos libres y utilid
 Sin el esfuerzo de la comunidad, reunir estas increíbles herramientas no sería posible. Queremos agradecer a los usuarios que han participado activamente aportando repositorios y compartiendo conocimiento:
 
 - [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos).*
+- [@aitorwilzig](https://github.com/aitorwilzig) — *Colaborador (Por aportar Agent Reach).*
 
 ¡Anímate a abrir tu primer Pull Request y tu nombre aparecerá aquí!
