@@ -1,10 +1,43 @@
 # 📦 Bundle Top Repos
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/YaggoSEO/bundle-top-repos?style=for-the-badge&color=c4ff7b&logo=github&logoColor=black" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/YaggoSEO/bundle-top-repos?style=for-the-badge&color=c4ff7b&logo=github&logoColor=black" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/YaggoSEO/bundle-top-repos?style=for-the-badge&color=c4ff7b&logo=github&logoColor=black" alt="Issues" />
+  <img src="https://img.shields.io/github/license/YaggoSEO/bundle-top-repos?style=for-the-badge&color=c4ff7b&logo=github&logoColor=black" alt="License" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/YaggoSEO/bundle-top-repos">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Bundle%20Top%20Repos&fontSize=60&fontAlignY=38&desc=AI%20·%20SEO%20·%20Automation%20·%20Zero-Human%20Systems&descAlignY=62&descSize=20&fontColor=c4ff7b" alt="Bundle Top Repos Banner" width="100%" />
+  </a>
+</p>
+
 Bienvenido al **Bundle Top Repos**, una colección curada, pública y colaborativa de los mejores repositorios de código abierto, herramientas, agentes de IA y utilidades que consideramos imprescindibles y de altísimo valor para cualquier desarrollador, ingeniero de IA o creador de negocios digitales.
 
 ## 🎯 Objetivo
 
 El objetivo de este repositorio es mantener un directorio organizado, categorizado y centralizado de recursos que actúan como "multiplicadores de fuerza". Incluye herramientas de IA autónoma, ecosistema Claude, SEO, interfaces, CRMs open-source e ideas para empresas "zero-human".
+
+---
+
+## 📚 Índice
+
+- [🧠 Agentes e Inteligencia Artificial](#-agentes-e-inteligencia-artificial-frameworks--orquestación)
+- [🛠️ Ecosistema Claude, Antigravity & Productividad](#️-ecosistema-claude-antigravity--herramientas-de-productividad)
+- [🌐 SEO, Web, Diseño UI y Análisis de Datos](#-seo-web-diseño-ui-y-análisis-de-datos)
+- [🏢 Negocios, CRM y Utilidades Generales](#-negocios-crm-y-utilidades-generales)
+- [🌟 Agradecimientos y Colaboradores](#-agradecimientos-y-colaboradores)
+
+---
+
+## 🔥 Trending Repos
+
+Repos más destacados actualmente:
+
+- [**Paperclip**](https://github.com/paperclipai/paperclip) — Zero-human companies
+- [**AutoResearch**](https://github.com/karpathy/autoresearch) — AI research automation
+- [**Agency Agents**](https://github.com/msitarzewski/agency-agents) — AI roles ecosystem
 
 ---
 
@@ -70,6 +103,14 @@ Recursos de back-office, monitorización mundial, bases de datos libres y utilid
 ## 🌟 Agradecimientos y Colaboradores
 
 Sin el esfuerzo de la comunidad, reunir estas increíbles herramientas no sería posible. Queremos agradecer a los usuarios que han participado activamente aportando repositorios y compartiendo conocimiento:
+
+### 👥 Contributors
+
+<p align="left">
+  <a href="https://github.com/YaggoSEO/bundle-top-repos/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=YaggoSEO/bundle-top-repos" alt="Contributors" />
+  </a>
+</p>
 
 - [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos).*
 - [@aitorwilzig](https://github.com/aitorwilzig) — *Colaborador (Por aportar Agent Reach).*
