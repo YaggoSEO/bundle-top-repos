@@ -52,6 +52,8 @@ Repositorios centrados en la autonomía algorítmica, investigación y enjambres
 - [**SwarmUI**](https://github.com/mcmonkeyprojects/SwarmUI?tab=readme-ov-file): Solución visual para sistemas de agentes basados en el concepto "Swarm" (enjambre). Proporciona una interfaz gráfica para desplegar, monitorear e interactuar con docenas de agentes colaborando simultáneamente en tiempo real. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**UncommonRoute**](https://github.com/CommonstackAI/UncommonRoute): Rutas y patrones no convencionales de automatización de IA. Ayuda a conectar la creación de lógicas multi-agente en tareas de automatización complejas, evitando flujos rígidos tradicionales. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Agents (wshobson)**](https://github.com/wshobson/agents): Un ecosistema brutal, extenso y preparado para producción con 72 plugins para *Claude Code*, que agrupan 112 agentes especializados y docenas de multi-agentes orquestadores para desarrollo full-stack, DevOps, QA y seguridad. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**MiroFish**](https://github.com/666ghj/MiroFish): *Motor ligero de simulación y predicción multi-agente.* Permite construir mundos paralelos digitales inyectando información del mundo real (noticias, datos, reportes). Dentro de este entorno, miles de agentes de IA con personalidades y memoria interactúan, permitiendo simular escenarios sociológicos, predecir tendencias financieras o ensayar toma de decisiones empresariales desde una perspectiva macro y micro. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Lobe Chat**](https://github.com/lobehub/lobe-chat): *Framework o interfaz definitiva para la orquestación e interacción con agentes.* Entorno avanzado de código abierto que facilita desplegar, orquestar y colaborar con diferentes LLMs. Permite múltiples extensiones locales, diseñar "compañeros de equipo" de IA, y configurar un espacio de trabajo tremendo para flujos de trabajo profesionales. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -66,6 +68,7 @@ Con el advenimiento de *claude-code* y otras herramientas "agentic", esta catego
 - [**Skill: Last 30 Days**](https://github.com/mvanhorn/last30days-skill?tab=readme-ov-file): Potente herramienta de *research* para agentes. Ejecuta `/last30days <tema>` y rastreará masivamente ese tópico en Reddit, X, TikTok, YouTube, Hacker News y Bluesky, evaluando resultados y tendencias humanas reales de los últimos 30 días. Brutal para dotar a tu agente de contexto sobre ecosistemas externos o feedback social antes de trabajar. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Skill: Agent Reach**](https://github.com/Panniantong/Agent-Reach?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev): Da a tu agente de IA visión completa de internet para leer y buscar en Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu y más desde OpenClaw, con una sola skill y sin APIs de pago. *(Añadido por [@aitorwilzig](https://github.com/aitorwilzig))*
 - [**gstack**](https://github.com/garrytan/gstack): *El "stack" de agentes de Garry Tan.* Colección de 23 potentes "skills" y herramientas diseñadas para funcionar en terminal. Te permiten desplegar un equipo virtual completo (CEO, Ingeniero Jefe, Diseñador, QA y Seguridad) que automatiza y estructura el ciclo de desarrollo en tus proyectos. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**oh-my-claudecode**](https://github.com/Yeachan-Heo/oh-my-claudecode): *Orquestación multi-agente priorizando el equipo para Claude Code.* Una herramienta o framework diseñado específicamente para extender Claude Code, facilitando una estructura en la cual múltiples agentes interactúan de manera eficiente, organizados en dinámicas de equipo para potenciar la productividad desde tu entorno de línea de comandos. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -77,6 +80,8 @@ Herramientas para atacar la superficie digital, clonar interfaces, escribir cód
 - [**AI Website Cloner Template**](https://github.com/JCodesMore/ai-website-cloner-template): Plantilla y scaffolding de automatización para, utilizando IA, "clonar" la estructura fundamental, diseño y propósito de una web existente, creando una base funcional inspirada en el original en tiempo récord. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**SEO GEO Audit**](https://github.com/GEO-SEO/seo-geo-audit): Excelente suite de auditoría integral. En un solo reporte examina problemas de técnica SEO, calidad de contenidos, confianza (E-E-A-T) y nivel de optimización GEO (cómo de bien lo consumen inteligencias artificiales tipo ChatGPT, Perplexity o Google AI Overviews). *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Open SEO**](https://github.com/every-app/open-seo): Un panel, suite o herramienta libre y accesible de utilidades SEO que democratiza el conocimiento técnico: generadores semánticos, auditores de links locales y revisión de estructura sin pagar cuotas en grandes plataformas. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python): *La mayor enciclopedia open-source de algoritmos en Python.* Colección colosal de algoritmos matemáticos, estructuras de datos y modelos de machine learning implementados nativamente. Ideal para extraer lógica subyacente de sistemas complejos o entender las bases detrás del análisis de datos moderno. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Pretext**](https://github.com/chenglou/pretext): *Librería ultra-rápida de JS/TS para layout y medición de texto.* Muy útil para el diseño UI web puro en IA. Evita usar mediciones lentas del DOM (`getBoundingClientRect`) y su reflow, ya que implementa una medición ultrarrápida en memoria. Facilita renderizado optimizado para Canvas, SVG, y diseños complejos en el cliente. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -87,7 +92,7 @@ Recursos de back-office, monitorización mundial, bases de datos libres y utilid
 - [**Twenty**](https://github.com/twentyhq/twenty): *"El CRM open-source moderno"*. Una alternativa real, con una interfaz increíblemente pulida (estilo Notion/Linear) orientada a sustituir SalesForce o HubSpot y ofrecer un control total de tus datos. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Public APIs**](https://github.com/public-apis/public-apis): La legendaria y colosal lista colaborativa que agrupa todas las APIs públicas gratuitas de internet. Esencial para cualquier arquitecto de software o hacker buscando datos para side-projects. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**WorldMonitor**](https://github.com/koala73/worldmonitor?tab=readme-ov-file): Proyecto que consta de un cron de monitoreo que raspa y filtra constantemente noticias o marcadores mundiales devolviendo reportes limpios orientados a contexto e hiper-información. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
-- [**MiroFish**](https://github.com/666ghj/MiroFish?tab=readme-ov-file): Utilidad súper práctica que purga, limpia y destila timelines de X (Twitter). Focalizada en interceptar la publicidad engañosa ("dirty ads"), posts de bots y en refinar visualmente la experiencia de navegación borrando "basura" visual. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**TREK**](https://github.com/mauriceboe/TREK): *Planificador de viajes y proyectos colaborativo.* Plataforma de código abierto y self-hosted. Permite la gestión de itinerarios, mapas interactivos, control de presupuestos y sincronización en tiempo real. Es PWA y soporta SSO. Sirve de base arquitectónica excelente para crear sistemas de gestión (viajes, propiedades, control logístico) para pequeños negocios. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -113,7 +118,7 @@ Sin el esfuerzo de la comunidad, reunir estas increíbles herramientas no sería
   </a>
 </p>
 
-- [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos y gstack).*
+- [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos, gstack, MiroFish, TheAlgorithms/Python, Lobe Chat, Pretext, oh-my-claudecode y TREK).*
 - [@aitorwilzig](https://github.com/aitorwilzig) — *Colaborador (Por aportar Agent Reach).*
 
 ¡Anímate a abrir tu primer Pull Request y tu nombre aparecerá aquí!
