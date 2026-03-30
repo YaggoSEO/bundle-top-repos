@@ -65,6 +65,7 @@ Con el advenimiento de *claude-code* y otras herramientas "agentic", esta catego
 - [**Skill: Cost Optimizer**](https://github.com/fullstackcrew-alpha/skill-cost-optimizer): Un plugin (skill) vital para OpenClaw/Claude Code que rastrea y clasifica tus prompts en tiempo real, asignando la tarea a modelos ultrabaratos (Deepseek/Gemini Flash) cuando la tarea es sencilla, logrando **reducir un 84% tus facturas de API** sin perder inteligencia en código complejo. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Skill: Last 30 Days**](https://github.com/mvanhorn/last30days-skill?tab=readme-ov-file): Potente herramienta de *research* para agentes. Ejecuta `/last30days <tema>` y rastreará masivamente ese tópico en Reddit, X, TikTok, YouTube, Hacker News y Bluesky, evaluando resultados y tendencias humanas reales de los últimos 30 días. Brutal para dotar a tu agente de contexto sobre ecosistemas externos o feedback social antes de trabajar. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Skill: Agent Reach**](https://github.com/Panniantong/Agent-Reach?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev): Da a tu agente de IA visión completa de internet para leer y buscar en Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu y más desde OpenClaw, con una sola skill y sin APIs de pago. *(Añadido por [@aitorwilzig](https://github.com/aitorwilzig))*
+- [**gstack**](https://github.com/garrytan/gstack): *El "stack" de agentes de Garry Tan.* Colección de 23 potentes "skills" y herramientas diseñadas para funcionar en terminal. Te permiten desplegar un equipo virtual completo (CEO, Ingeniero Jefe, Diseñador, QA y Seguridad) que automatiza y estructura el ciclo de desarrollo en tus proyectos. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -112,7 +113,7 @@ Sin el esfuerzo de la comunidad, reunir estas increíbles herramientas no sería
   </a>
 </p>
 
-- [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos).*
+- [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos y gstack).*
 - [@aitorwilzig](https://github.com/aitorwilzig) — *Colaborador (Por aportar Agent Reach).*
 
 ¡Anímate a abrir tu primer Pull Request y tu nombre aparecerá aquí!
