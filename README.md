@@ -35,6 +35,9 @@ El objetivo de este repositorio es mantener un directorio organizado, categoriza
 
 Repos más destacados actualmente:
 
+- [**Coolify**](https://github.com/coollabsio/coolify) — Open-source PaaS alternative to Vercel/Heroku
+- [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) — Design system files for AI coding agents
+- [**VibeVoice**](https://github.com/microsoft/VibeVoice) — Open-Source Frontier Voice AI by Microsoft
 - [**Paperclip**](https://github.com/paperclipai/paperclip) — Zero-human companies
 - [**AutoResearch**](https://github.com/karpathy/autoresearch) — AI research automation
 - [**Agency Agents**](https://github.com/msitarzewski/agency-agents) — AI roles ecosystem
@@ -54,8 +57,11 @@ Repositorios centrados en la autonomía algorítmica, investigación y enjambres
 - [**Agents (wshobson)**](https://github.com/wshobson/agents): Un ecosistema brutal, extenso y preparado para producción con 72 plugins para *Claude Code*, que agrupan 112 agentes especializados y docenas de multi-agentes orquestadores para desarrollo full-stack, DevOps, QA y seguridad. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**MiroFish**](https://github.com/666ghj/MiroFish): *Motor ligero de simulación y predicción multi-agente.* Permite construir mundos paralelos digitales inyectando información del mundo real (noticias, datos, reportes). Dentro de este entorno, miles de agentes de IA con personalidades y memoria interactúan, permitiendo simular escenarios sociológicos, predecir tendencias financieras o ensayar toma de decisiones empresariales desde una perspectiva macro y micro. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Lobe Chat**](https://github.com/lobehub/lobe-chat): *Framework o interfaz definitiva para la orquestación e interacción con agentes.* Entorno avanzado de código abierto que facilita desplegar, orquestar y colaborar con diferentes LLMs. Permite múltiples extensiones locales, diseñar "compañeros de equipo" de IA, y configurar un espacio de trabajo tremendo para flujos de trabajo profesionales. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**VibeVoice**](https://github.com/microsoft/VibeVoice): Modelo de IA de frontera desarrollado por Microsoft. Facilita la implementación de agentes de voz conversacionales y sistemas de interacción de audio en proyectos de código abierto. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**tribev2**](https://github.com/facebookresearch/tribev2): Modelo multimodal desarrollado por Facebook Research enfocado en la predicción avanzada de respuestas cerebrales. Extiende las capacidades de la IA al campo de la neurociencia. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**pleng**](https://github.com/mutonby/pleng): Ingeniero de plataforma (PaaS) autohospedable para agentes IA. Permite operar, monitorear y desplegar infraestructura en servidores propios utilizando únicamente lenguaje natural. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**PageIndex**](https://github.com/VectifyAI/PageIndex): Sistema de indexación de documentos para RAG (Retrieval-Augmented Generation) que omite el uso de costosas bases de datos vectoriales utilizando enfoques basados en razonamiento. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Agentic Engineering Framework**](https://github.com/gmoncor/agentic-engineering-framework): Framework de plantillas estructuradas para desarrollo de software asistido por IA. Compatible con cualquier LLM o IDE agéntico (ChatGPT, Claude, Gemini, Copilot, Cursor). Incluye 10 plantillas operativas y de planificación que obligan al asistente a preguntar antes de asumir, mostrar el plan antes de ejecutar y verificar después de cada cambio. Sin dependencias, sin configuración — copiar, pegar y trabajar. *(Añadido por [@gmoncor](https://github.com/gmoncor))*
-
 ---
 
 ## 🛠️ Ecosistema Claude, Antigravity & Herramientas de Productividad
@@ -70,6 +76,7 @@ Con el advenimiento de *claude-code* y otras herramientas "agentic", esta catego
 - [**Skill: Agent Reach**](https://github.com/Panniantong/Agent-Reach?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev): Da a tu agente de IA visión completa de internet para leer y buscar en Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu y más desde OpenClaw, con una sola skill y sin APIs de pago. *(Añadido por [@aitorwilzig](https://github.com/aitorwilzig))*
 - [**gstack**](https://github.com/garrytan/gstack): *El "stack" de agentes de Garry Tan.* Colección de 23 potentes "skills" y herramientas diseñadas para funcionar en terminal. Te permiten desplegar un equipo virtual completo (CEO, Ingeniero Jefe, Diseñador, QA y Seguridad) que automatiza y estructura el ciclo de desarrollo en tus proyectos. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**oh-my-claudecode**](https://github.com/Yeachan-Heo/oh-my-claudecode): *Orquestación multi-agente priorizando el equipo para Claude Code.* Una herramienta o framework diseñado específicamente para extender Claude Code, facilitando una estructura en la cual múltiples agentes interactúan de manera eficiente, organizados en dinámicas de equipo para potenciar la productividad desde tu entorno de línea de comandos. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md): Colección de archivos `DESIGN.md` con sistemas de diseño predefinidos (inspirados en grandes marcas) preparados para pasarlos a agentes de IA como Antigravity y generar UIs coherentes rápidamente. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -83,6 +90,7 @@ Herramientas para atacar la superficie digital, clonar interfaces, escribir cód
 - [**Open SEO**](https://github.com/every-app/open-seo): Un panel, suite o herramienta libre y accesible de utilidades SEO que democratiza el conocimiento técnico: generadores semánticos, auditores de links locales y revisión de estructura sin pagar cuotas en grandes plataformas. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**TheAlgorithms/Python**](https://github.com/TheAlgorithms/Python): *La mayor enciclopedia open-source de algoritmos en Python.* Colección colosal de algoritmos matemáticos, estructuras de datos y modelos de machine learning implementados nativamente. Ideal para extraer lógica subyacente de sistemas complejos o entender las bases detrás del análisis de datos moderno. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Pretext**](https://github.com/chenglou/pretext): *Librería ultra-rápida de JS/TS para layout y medición de texto.* Muy útil para el diseño UI web puro en IA. Evita usar mediciones lentas del DOM (`getBoundingClientRect`) y su reflow, ya que implementa una medición ultrarrápida en memoria. Facilita renderizado optimizado para Canvas, SVG, y diseños complejos en el cliente. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**emdash**](https://github.com/emdash-cms/emdash): CMS (Sistema de Gestión de Contenidos) full-stack altamente performante implementado en Astro y TypeScript, enfocado en reemplazar arquitecturas monolíticas web tradicionales. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -94,6 +102,7 @@ Recursos de back-office, monitorización mundial, bases de datos libres y utilid
 - [**Public APIs**](https://github.com/public-apis/public-apis): La legendaria y colosal lista colaborativa que agrupa todas las APIs públicas gratuitas de internet. Esencial para cualquier arquitecto de software o hacker buscando datos para side-projects. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**WorldMonitor**](https://github.com/koala73/worldmonitor?tab=readme-ov-file): Proyecto que consta de un cron de monitoreo que raspa y filtra constantemente noticias o marcadores mundiales devolviendo reportes limpios orientados a contexto e hiper-información. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**TREK**](https://github.com/mauriceboe/TREK): *Planificador de viajes y proyectos colaborativo.* Plataforma de código abierto y self-hosted. Permite la gestión de itinerarios, mapas interactivos, control de presupuestos y sincronización en tiempo real. Es PWA y soporta SSO. Sirve de base arquitectónica excelente para crear sistemas de gestión (viajes, propiedades, control logístico) para pequeños negocios. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**coolify**](https://github.com/coollabsio/coolify): Plataforma como Servicio (PaaS) de código abierto ideal como alternativa para Vercel o Heroku. Permite lanzar aplicaciones full-stack, estáticas, bases de datos y herramientas con un solo clic. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -119,7 +128,8 @@ Sin el esfuerzo de la comunidad, reunir estas increíbles herramientas no sería
   </a>
 </p>
 
-- [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos, gstack, MiroFish, TheAlgorithms/Python, Lobe Chat, Pretext, oh-my-claudecode y TREK).*
+- [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos, gstack, MiroFish, TheAlgorithms/Python, Lobe Chat, Pretext, oh-my-claudecode, TREK, VibeVoice, tribev2, pleng, PageIndex, emdash, awesome-design-md y coolify).*
 - [@aitorwilzig](https://github.com/aitorwilzig) — *Colaborador (Por aportar Agent Reach).*
+- [@gmoncor](https://github.com/gmoncor) — *Colaborador (Por aportar Agentic Engineering Framework).*
 
 ¡Anímate a abrir tu primer Pull Request y tu nombre aparecerá aquí!
