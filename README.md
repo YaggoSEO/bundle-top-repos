@@ -27,6 +27,7 @@ El objetivo de este repositorio es mantener un directorio organizado, categoriza
 - [🛠️ Ecosistema Claude, Antigravity & Productividad](#️-ecosistema-claude-antigravity--herramientas-de-productividad)
 - [🌐 SEO, Web, Diseño UI y Análisis de Datos](#-seo-web-diseño-ui-y-análisis-de-datos)
 - [🏢 Negocios, CRM y Utilidades Generales](#-negocios-crm-y-utilidades-generales)
+- [📖 Educación y Aprendizaje](#-educación-y-aprendizaje)
 - [🌟 Agradecimientos y Colaboradores](#-agradecimientos-y-colaboradores)
 
 ---
@@ -62,6 +63,8 @@ Repositorios centrados en la autonomía algorítmica, investigación y enjambres
 - [**pleng**](https://github.com/mutonby/pleng): Ingeniero de plataforma (PaaS) autohospedable para agentes IA. Permite operar, monitorear y desplegar infraestructura en servidores propios utilizando únicamente lenguaje natural. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**PageIndex**](https://github.com/VectifyAI/PageIndex): Sistema de indexación de documentos para RAG (Retrieval-Augmented Generation) que omite el uso de costosas bases de datos vectoriales utilizando enfoques basados en razonamiento. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Agentic Engineering Framework**](https://github.com/gmoncor/agentic-engineering-framework): Framework de plantillas estructuradas para desarrollo de software asistido por IA. Compatible con cualquier LLM o IDE agéntico (ChatGPT, Claude, Gemini, Copilot, Cursor). Incluye 10 plantillas operativas y de planificación que obligan al asistente a preguntar antes de asumir, mostrar el plan antes de ejecutar y verificar después de cada cambio. Sin dependencias, sin configuración — copiar, pegar y trabajar. *(Añadido por [@gmoncor](https://github.com/gmoncor))*
+- [**Camoufox**](https://github.com/daijro/camoufox): Un navegador de código abierto construido específicamente para agentes de IA. Es ligero, imita el comportamiento de un navegador humano para evitar bloqueos y está optimizado para la automatización impulsada por LLMs (como extracción de datos o pruebas de interfaz). *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**PinchTab**](https://github.com/pinchtab/pinchtab): Binario ligero en Go que proporciona control de navegador optimizado para agentes de IA. Expone una API HTTP sencilla y está diseñado para ser altamente eficiente en el uso de tokens, facilitando que los agentes interactúen con la web de forma fluida. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 ---
 
 ## 🛠️ Ecosistema Claude, Antigravity & Herramientas de Productividad
@@ -77,6 +80,9 @@ Con el advenimiento de *claude-code* y otras herramientas "agentic", esta catego
 - [**gstack**](https://github.com/garrytan/gstack): *El "stack" de agentes de Garry Tan.* Colección de 23 potentes "skills" y herramientas diseñadas para funcionar en terminal. Te permiten desplegar un equipo virtual completo (CEO, Ingeniero Jefe, Diseñador, QA y Seguridad) que automatiza y estructura el ciclo de desarrollo en tus proyectos. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**oh-my-claudecode**](https://github.com/Yeachan-Heo/oh-my-claudecode): *Orquestación multi-agente priorizando el equipo para Claude Code.* Una herramienta o framework diseñado específicamente para extender Claude Code, facilitando una estructura en la cual múltiples agentes interactúan de manera eficiente, organizados en dinámicas de equipo para potenciar la productividad desde tu entorno de línea de comandos. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**awesome-design-md**](https://github.com/VoltAgent/awesome-design-md): Colección de archivos `DESIGN.md` con sistemas de diseño predefinidos (inspirados en grandes marcas) preparados para pasarlos a agentes de IA como Antigravity y generar UIs coherentes rápidamente. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**MemPalace**](https://github.com/milla-jovovich/mempalace/tree/main): Sistema de memoria local (local-first) para asistentes de IA. Almacena el historial de conversaciones y el contexto de forma literal, permitiendo búsquedas semánticas eficientes sin depender de APIs de terceros. Esencial para mantener el contexto en proyectos a largo plazo sin saturar la ventana de tokens. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Get Shit Done (GSD)**](https://github.com/gsd-build/get-shit-done): Potente sistema de meta-prompting y desarrollo guiado por especificaciones para Claude Code, Antigravity y otros asistentes. Resuelve la degradación de contexto dividiendo el trabajo en fases (investigación, planificación, ejecución y verificación) con orquestación multi-agente, logrando que la IA construya proyectos complejos de forma consistente. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Andrej Karpathy Skills**](https://github.com/forrestchang/andrej-karpathy-skills): Colección de instrucciones y reglas en un archivo `CLAUDE.md` diseñadas para mejorar radicalmente el comportamiento de Claude Code y Cursor. Basado en las observaciones de Andrej Karpathy, obliga al agente a pensar antes de programar, priorizar la simplicidad y realizar cambios quirúrgicos sin refactorizaciones innecesarias. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -103,6 +109,13 @@ Recursos de back-office, monitorización mundial, bases de datos libres y utilid
 - [**WorldMonitor**](https://github.com/koala73/worldmonitor?tab=readme-ov-file): Proyecto que consta de un cron de monitoreo que raspa y filtra constantemente noticias o marcadores mundiales devolviendo reportes limpios orientados a contexto e hiper-información. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**TREK**](https://github.com/mauriceboe/TREK): *Planificador de viajes y proyectos colaborativo.* Plataforma de código abierto y self-hosted. Permite la gestión de itinerarios, mapas interactivos, control de presupuestos y sincronización en tiempo real. Es PWA y soporta SSO. Sirve de base arquitectónica excelente para crear sistemas de gestión (viajes, propiedades, control logístico) para pequeños negocios. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**coolify**](https://github.com/coollabsio/coolify): Plataforma como Servicio (PaaS) de código abierto ideal como alternativa para Vercel o Heroku. Permite lanzar aplicaciones full-stack, estáticas, bases de datos y herramientas con un solo clic. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Infinite Monitor**](https://github.com/homanp/infinite-monitor): Creador de dashboards (paneles de control) impulsado por IA. Permite describir un widget en lenguaje natural y un agente de IA escribe, construye y despliega el código en React en tiempo real sobre un lienzo infinito. Ideal para crear centros de monitorización personalizados para negocios, OSINT o trading. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+
+---
+
+## 📖 Educación y Aprendizaje
+
+- [**Build your own X**](https://github.com/codecrafters-io/build-your-own-x): Recopilación exhaustiva de guías paso a paso para recrear desde cero tecnologías populares (lenguajes de programación, bases de datos, motores 3D, sistemas operativos, etc.). Un recurso invaluable para aprender ingeniería de software profunda bajo la premisa de Feynman: "Lo que no puedo crear, no lo entiendo". *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -128,7 +141,7 @@ Sin el esfuerzo de la comunidad, reunir estas increíbles herramientas no sería
   </a>
 </p>
 
-- [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos, gstack, MiroFish, TheAlgorithms/Python, Lobe Chat, Pretext, oh-my-claudecode, TREK, VibeVoice, tribev2, pleng, PageIndex, emdash, awesome-design-md y coolify).*
+- [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos, gstack, MiroFish, TheAlgorithms/Python, Lobe Chat, Pretext, oh-my-claudecode, TREK, VibeVoice, tribev2, pleng, PageIndex, emdash, awesome-design-md, coolify, MemPalace, Camoufox, PinchTab, Infinite Monitor, Get Shit Done, Andrej Karpathy Skills y Build your own X).*
 - [@aitorwilzig](https://github.com/aitorwilzig) — *Colaborador (Por aportar Agent Reach).*
 - [@gmoncor](https://github.com/gmoncor) — *Colaborador (Por aportar Agentic Engineering Framework).*
 
