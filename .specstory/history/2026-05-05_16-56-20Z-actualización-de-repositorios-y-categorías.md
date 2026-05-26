@@ -156,3 +156,495 @@ _**Agent (default)**_
 <summary>Tool use: **read_file_v2**</summary>
 
 </details></tool-use>
+
+_**Agent (default)**_
+
+Voy a insertar los 8 repos faltantes en sus categorías dentro de `README.md` (sin duplicar `Agency Agents`) y mantener el mismo formato editorial de descripción + firma.
+
+_**Agent (default)**_
+
+<tool-use data-tool-type="write" data-tool-name="edit_file_v2">
+
+<details><summary>Tool use: **edit_file_v2** • Edit file: c:/Users/yagoy/OneDrive/Desktop/PROYECTOS/BUNDLE-TOP-REPOS/README.md</summary>
+
+</details>
+
+</tool-use>
+
+<tool-use data-tool-type="write" data-tool-name="edit_file_v2"><details>
+<summary>Tool use: **edit_file_v2**</summary>
+
+</details></tool-use>
+
+_**Agent (default)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="read_lints">
+<details>
+<summary>Tool use: **read_lints**</summary>
+
+
+Parameters:
+
+```json
+{
+  "paths": [
+    "c:\\Users\\yagoy\\OneDrive\\Desktop\\PROYECTOS\\BUNDLE-TOP-REPOS\\README.md"
+  ]
+}
+```
+Result:
+
+```json
+{
+  "linterErrorsByFile": [
+    {
+      "errors": [
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: p]",
+          "range": {
+            "endPosition": {
+              "column": 19,
+              "line": 3
+            },
+            "startPosition": {
+              "column": 1,
+              "line": 3
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 151,
+              "line": 4
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 4
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 151,
+              "line": 5
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 5
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 153,
+              "line": 6
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 6
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 155,
+              "line": 7
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 7
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: p]",
+          "range": {
+            "endPosition": {
+              "column": 19,
+              "line": 10
+            },
+            "startPosition": {
+              "column": 1,
+              "line": 10
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: a]",
+          "range": {
+            "endPosition": {
+              "column": 58,
+              "line": 11
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 11
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 307,
+              "line": 12
+            },
+            "startPosition": {
+              "column": 5,
+              "line": 12
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD032/blanks-around-lists: Lists should be surrounded by blank lines",
+          "range": {
+            "endPosition": {
+              "column": 365,
+              "line": 67
+            },
+            "startPosition": {
+              "column": 1,
+              "line": 67
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: p]",
+          "range": {
+            "endPosition": {
+              "column": 17,
+              "line": 146
+            },
+            "startPosition": {
+              "column": 1,
+              "line": 146
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: a]",
+          "range": {
+            "endPosition": {
+              "column": 78,
+              "line": 147
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 147
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 96,
+              "line": 148
+            },
+            "startPosition": {
+              "column": 5,
+              "line": 148
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        }
+      ],
+      "relativeWorkspacePath": "c:\\Users\\yagoy\\OneDrive\\Desktop\\PROYECTOS\\BUNDLE-TOP-REPOS\\README.md"
+    }
+  ]
+}
+```
+Status: **completed**
+
+
+</details>
+</tool-use>
+
+<tool-use data-tool-type="unknown" data-tool-name="read_lints"><details>
+<summary>Tool use: **read_lints**</summary>
+
+</details></tool-use>
+
+_**Agent (default)**_
+
+<tool-use data-tool-type="read" data-tool-name="read_file_v2">
+<details><summary>Tool use: **read_file_v2** • Read file: c:\Users\yagoy\OneDrive\Desktop\PROYECTOS\BUNDLE-TOP-REPOS\README.md</summary>
+
+</details>
+</tool-use>
+
+<tool-use data-tool-type="read" data-tool-name="read_file_v2"><details>
+<summary>Tool use: **read_file_v2**</summary>
+
+</details></tool-use>
+
+_**Agent (default)**_
+
+<tool-use data-tool-type="write" data-tool-name="edit_file_v2">
+
+<details><summary>Tool use: **edit_file_v2** • Edit file: c:/Users/yagoy/OneDrive/Desktop/PROYECTOS/BUNDLE-TOP-REPOS/README.md</summary>
+
+</details>
+
+</tool-use>
+
+<tool-use data-tool-type="write" data-tool-name="edit_file_v2"><details>
+<summary>Tool use: **edit_file_v2**</summary>
+
+</details></tool-use>
+
+_**Agent (default)**_
+
+<tool-use data-tool-type="unknown" data-tool-name="read_lints">
+<details>
+<summary>Tool use: **read_lints**</summary>
+
+
+Parameters:
+
+```json
+{
+  "paths": [
+    "c:\\Users\\yagoy\\OneDrive\\Desktop\\PROYECTOS\\BUNDLE-TOP-REPOS\\README.md"
+  ]
+}
+```
+Result:
+
+```json
+{
+  "linterErrorsByFile": [
+    {
+      "errors": [
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: p]",
+          "range": {
+            "endPosition": {
+              "column": 19,
+              "line": 3
+            },
+            "startPosition": {
+              "column": 1,
+              "line": 3
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 151,
+              "line": 4
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 4
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 151,
+              "line": 5
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 5
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 153,
+              "line": 6
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 6
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 155,
+              "line": 7
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 7
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: p]",
+          "range": {
+            "endPosition": {
+              "column": 19,
+              "line": 10
+            },
+            "startPosition": {
+              "column": 1,
+              "line": 10
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: a]",
+          "range": {
+            "endPosition": {
+              "column": 58,
+              "line": 11
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 11
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 307,
+              "line": 12
+            },
+            "startPosition": {
+              "column": 5,
+              "line": 12
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: p]",
+          "range": {
+            "endPosition": {
+              "column": 17,
+              "line": 147
+            },
+            "startPosition": {
+              "column": 1,
+              "line": 147
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: a]",
+          "range": {
+            "endPosition": {
+              "column": 78,
+              "line": 148
+            },
+            "startPosition": {
+              "column": 3,
+              "line": 148
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        },
+        {
+          "message": "MD033/no-inline-html: Inline HTML [Element: img]",
+          "range": {
+            "endPosition": {
+              "column": 96,
+              "line": 149
+            },
+            "startPosition": {
+              "column": 5,
+              "line": 149
+            }
+          },
+          "severity": "DIAGNOSTIC_SEVERITY_WARNING",
+          "source": "markdownlint"
+        }
+      ],
+      "relativeWorkspacePath": "c:\\Users\\yagoy\\OneDrive\\Desktop\\PROYECTOS\\BUNDLE-TOP-REPOS\\README.md"
+    }
+  ]
+}
+```
+Status: **completed**
+
+
+</details>
+</tool-use>
+
+<tool-use data-tool-type="unknown" data-tool-name="read_lints"><details>
+<summary>Tool use: **read_lints**</summary>
+
+</details></tool-use>
+
+_**Agent (default)**_
+
+Listo: `README.md` ya quedó actualizado con lo de `PENDIENTES.MD`.
+
+Integré estos repos (evitando duplicar `Agency Agents`, que ya estaba):
+- En `🛠️ Ecosistema Claude, Antigravity & Herramientas de Productividad`:
+  - `Cursor Cookbook`
+- En `🌐 SEO, Web, Diseño UI y Análisis de Datos`:
+  - `Scrapling`
+- En `🏢 Negocios, CRM y Utilidades Generales`:
+  - `DocuSeal`
+  - `AppFlowy`
+  - `listmonk`
+  - `Postiz App`
+  - `Mattermost`
+  - `Vaultwarden`
+
+Además, dejé corregido un warning de formato Markdown (línea en blanco alrededor de lista/regla horizontal).  
+Los warnings restantes son previos y corresponden al HTML inline del banner/contributors del propio `README.md`.
