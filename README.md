@@ -83,6 +83,9 @@ Repositorios centrados en la autonomía algorítmica, investigación y enjambres
 - [**vLLM**](https://github.com/vllm-project/vllm): Motor de inferencia y serving de alto rendimiento para LLMs. Optimiza el uso de memoria GPU y el throughput en producción, convirtiéndose en el estándar de facto para desplegar modelos open-weights a escala. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**AirLLM**](https://github.com/lyogavin/airllm): Permite ejecutar modelos de hasta 70B parámetros en una sola GPU de 4 GB mediante carga por capas. Ideal para experimentar con LLMs grandes en hardware limitado sin recurrir a APIs externas. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**rea**](https://github.com/morluto/rea): Framework de agentes para ingeniería inversa de aplicaciones y binarios nativos. Automatiza el análisis de comportamiento, estructuras y flujos desde el nivel de app hasta el código máquina. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Soup**](https://github.com/MakazhanAlpamys/Soup): Fine-tuning de LLMs definido en un solo YAML. Con *layer streaming* permite entrenar un modelo 8B en una GPU de portátil de 4 GB, bajando la barrera de hardware para personalizar modelos open-weights. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Elephant Goldfish Model**](https://github.com/google/elephant-goldfish-model): Plugin open-source de Google para diseñar y revisar software con agentes. Facilita flujos de arquitectura, revisión y colaboración agente-humano en el ciclo de desarrollo. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**CortexDB**](https://github.com/liliang-cn/cortexdb): Memoria local-first para agentes de IA con grafo de conocimiento, restricciones ontológicas y razonamiento trazable, todo en un único archivo SQLite. Ideal para contexto persistente sin depender de servicios cloud. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -118,6 +121,8 @@ Con el advenimiento de *claude-code* y otras herramientas "agentic", esta catego
 - [**graft**](https://github.com/nanonets/graft): Acelera Claude Code, Cursor, Codex, Gemini y otros agentes de código con comprensión contextual específica del codebase. Reduce latencia y coste al aportar contexto relevante del proyecto en cada sesión. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**archify**](https://github.com/tt-a1i/archify): Skill de agente que convierte ideas, planes o codebases en diagramas interactivos. Compatible con Claude Code, Codex y otros asistentes; útil para documentar arquitectura y comunicar diseño técnico. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**OBLITERATUS**](https://github.com/elder-plinius/OBLITERATUS): Proyecto del ecosistema Pliny orientado a explorar y documentar límites, restricciones y comportamientos de modelos de IA. Complementa recursos de ingeniería de prompts y análisis de system prompts. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Claude Code Game Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios): Convierte Claude Code en un estudio de desarrollo de juegos completo: 49 agentes de IA, 72 skills de workflow y un sistema de coordinación que refleja la jerarquía real de un estudio. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill): Skill oficial de Cloudflare para auditorías de seguridad multi-fase con agentes de código. Genera hallazgos verificados de forma independiente en formato machine-readable, listos para pipelines de hardening. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -181,6 +186,7 @@ Recursos de back-office, monitorización mundial, bases de datos libres y utilid
 ## 📖 Educación y Aprendizaje
 
 - [**Build your own X**](https://github.com/codecrafters-io/build-your-own-x): Recopilación exhaustiva de guías paso a paso para recrear desde cero tecnologías populares (lenguajes de programación, bases de datos, motores 3D, sistemas operativos, etc.). Un recurso invaluable para aprender ingeniería de software profunda bajo la premisa de Feynman: "Lo que no puedo crear, no lo entiendo". *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**Craft Anything**](https://github.com/storytold/craft-anything): Guía práctica para entender cómo funciona cualquier software y construir el tuyo propio. Enfoque hands-on orientado a aprender por construcción, análisis y recreación de sistemas reales. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 
 ---
 
@@ -206,7 +212,7 @@ Sin el esfuerzo de la comunidad, reunir estas increíbles herramientas no sería
   </a>
 </p>
 
-- [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos, gstack, MiroFish, TheAlgorithms/Python, Lobe Chat, Pretext, oh-my-claudecode, TREK, VibeVoice, tribev2, pleng, PageIndex, emdash, awesome-design-md, coolify, MemPalace, Camoufox, PinchTab, Infinite Monitor, Get Shit Done, Andrej Karpathy Skills, Build your own X, geo-aeo-tracker, RustySEO, warp, TradingAgents, engram, reclip, screaming-frog-api, yt-dlp, bitwarden-server, cal.diy, plausible-analytics, codegraph, FreeDomain, omniparse, MoneyPrinterTurbo, MarkItDown, Understand-Anything, GitNexus, ruflo, memanto, graphify, claude-mem, docker-android, turbovec, InsForge, geo-seo-claude, ponytail, CL4R1T4S, geo-optimizer-skill, seo-geo-audit Dageno, headroom, DeerFlow, PixelRAG, Dify, Open WebUI, Flowise, Continue, Crawlee, Crawl4AI, Pake, Maybe, Chatwoot, Metabase, Activepieces, Huly, vLLM, AirLLM, Spec Kit, codebase-memory-mcp, AsciiStudio, watermarks-remover, graft, archify, OBLITERATUS, rea y LeadRadar).*
+- [@YaggoSEO](https://github.com/YaggoSEO) — *Creador y mantenedor inicial (Aportó la primera lista fundacional de 20 proyectos, gstack, MiroFish, TheAlgorithms/Python, Lobe Chat, Pretext, oh-my-claudecode, TREK, VibeVoice, tribev2, pleng, PageIndex, emdash, awesome-design-md, coolify, MemPalace, Camoufox, PinchTab, Infinite Monitor, Get Shit Done, Andrej Karpathy Skills, Build your own X, geo-aeo-tracker, RustySEO, warp, TradingAgents, engram, reclip, screaming-frog-api, yt-dlp, bitwarden-server, cal.diy, plausible-analytics, codegraph, FreeDomain, omniparse, MoneyPrinterTurbo, MarkItDown, Understand-Anything, GitNexus, ruflo, memanto, graphify, claude-mem, docker-android, turbovec, InsForge, geo-seo-claude, ponytail, CL4R1T4S, geo-optimizer-skill, seo-geo-audit Dageno, headroom, DeerFlow, PixelRAG, Dify, Open WebUI, Flowise, Continue, Crawlee, Crawl4AI, Pake, Maybe, Chatwoot, Metabase, Activepieces, Huly, vLLM, AirLLM, Spec Kit, codebase-memory-mcp, AsciiStudio, watermarks-remover, graft, archify, OBLITERATUS, rea, LeadRadar, Soup, Elephant Goldfish Model, CortexDB, Claude Code Game Studios, security-audit-skill y Craft Anything).*
 - [@aitorwilzig](https://github.com/aitorwilzig) — *Colaborador (Por aportar Agent Reach).*
 - [@gmoncor](https://github.com/gmoncor) — *Colaborador (Por aportar Agentic Engineering Framework).*
 
