@@ -123,6 +123,7 @@ Con el advenimiento de *claude-code* y otras herramientas "agentic", esta catego
 - [**OBLITERATUS**](https://github.com/elder-plinius/OBLITERATUS): Proyecto del ecosistema Pliny orientado a explorar y documentar límites, restricciones y comportamientos de modelos de IA. Complementa recursos de ingeniería de prompts y análisis de system prompts. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**Claude Code Game Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios): Convierte Claude Code en un estudio de desarrollo de juegos completo: 49 agentes de IA, 72 skills de workflow y un sistema de coordinación que refleja la jerarquía real de un estudio. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
 - [**security-audit-skill**](https://github.com/cloudflare/security-audit-skill): Skill oficial de Cloudflare para auditorías de seguridad multi-fase con agentes de código. Genera hallazgos verificados de forma independiente en formato machine-readable, listos para pipelines de hardening. *(Añadido por [@YaggoSEO](https://github.com/YaggoSEO))*
+- [**youtube-transcript-skills**](https://github.com/tubeagentkit/youtube-transcript-skills): Skill de agente (licencia MIT) para Claude Code, Codex y Cursor que obtiene la transcripción de vídeos de YouTube con marcas de tiempo opcionales, busca vídeos y canales y recorre listas de reproducción, para resumir charlas o tutoriales o investigar un tema sin salir del editor. Usa la API de GetYouTubeTranscript (requiere API key, 100 créditos gratis al registrarse).
 
 ---
 
